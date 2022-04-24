@@ -9,9 +9,9 @@ Ciência da computação
 
 ## Participantes
 
-André Menezes Resende
-Camila Viana Dolabela
-Clara Oliveira Mello Monteiro
+> André Menezes Resende
+> Camila Viana Dolabela
+> Clara Oliveira Mello Monteiro
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
