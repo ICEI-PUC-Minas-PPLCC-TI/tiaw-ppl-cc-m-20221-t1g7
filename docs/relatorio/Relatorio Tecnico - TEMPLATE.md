@@ -1,25 +1,16 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
 
-Falta de conteúdo gratuito sobre programação
+`Falta de conteúdo gratuito sobre programação`
 
-`CURSO` 
-
-Ciência da computação
+`Ciência da computação` 
 
 ## Participantes
 
-André Menezes Resende
+  - André Menezes Resende
 
-Camila Viana Dolabela
+  - Camila Viana Dolabela
 
-Clara Oliveira Mello Monteiro
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+  - Clara Oliveira Mello Monteiro
 
 # Estrutura do Documento
 
