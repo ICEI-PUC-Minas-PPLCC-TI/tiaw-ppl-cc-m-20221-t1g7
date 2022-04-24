@@ -6,11 +6,11 @@
 
 ## Participantes
 
-    - André Menezes Resende
+   - André Menezes Resende
 
-    - Camila Viana Dolabela
-
-    - Clara Oliveira Mello Monteiro
+   - Camila Viana Dolabela
+    
+   - Clara Oliveira Mello Monteiro
 
 # Estrutura do Documento
 
@@ -127,8 +127,23 @@
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ - Murilo
 
+![Murilo persona](imaages/../images/PMurilo.png)
+
+![Murilo mapa de empatia](imaages/../images/MEMurilo.png)
+
+ - Vitória
+  
+![Vitória persona](imaages/../images/PVitória.png)
+
+![Vitória mapa de empatia](imaages/../images/MEVitória.png)
+
+ - Kauã
+
+![Kauã persona](imaages/../images/PKauã.png)
+
+![Kauã mapa de empatia](imaages/../images/MEKauã.png)
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -145,12 +160,6 @@
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
