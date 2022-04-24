@@ -6,11 +6,11 @@
 
 ## Participantes
 
-  - André Menezes Resende
+    - André Menezes Resende
 
-  - Camila Viana Dolabela
+    - Camila Viana Dolabela
 
-  - Clara Oliveira Mello Monteiro
+    - Clara Oliveira Mello Monteiro
 
 # Estrutura do Documento
 
