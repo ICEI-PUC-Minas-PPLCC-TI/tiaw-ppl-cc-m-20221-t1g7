@@ -1,15 +1,17 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Falta de conteúdo gratuito sobre programação
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+André Menezes Resende
+Camila Viana Dolabela
+Clara Oliveira Mello Monteiro
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
