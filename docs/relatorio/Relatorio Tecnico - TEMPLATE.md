@@ -123,7 +123,9 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A seguir há uma sequência de passos que ajudaram no entendimento das necessidades do público alvo e, então, 
+no desenvolvimento de pequenos objetivos que atendem cada demanda apresentada.
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -149,6 +151,12 @@
 
 ![Kauã mapa de empatia](imaages/../images/MEKauã.jpg)
 
+
+
+Com as personas e os mapas 
+de empatia, foi possível compreender possíveis problemas de usuários e determinar quais funções do 
+programa são essenciais ou não (requisitos funcionais e não funcionais).
+
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
 > personalizada todos os principais envolvidos com a solução almeja. 
@@ -168,12 +176,13 @@
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Murilo       | Aprender programação                  | Conseguir trabalhos simples e aumentar a renda |
+|Vitória      | Direcionamento na área de programação | Conseguir aprofundar seus conhecimentos por conta própria |
+|Kauã         | Conhecer mais sobre programação       | Descobrir se possui vocação/ interesse |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -194,16 +203,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Conteúdos de qualidade | ALTA | 
+|RF-002| Exemplos de programas   | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Área destinada a perguntas e respostas| MÉDIA | 
+|RNF-002| Site possuir exercícios |  MÉDIA |
+|RNF-003| Indicações de materiais e sites | MÉDIA|
+|RNF-004| Responsividade | MÉDIA|
+|RNF-005| Tutorial estilo bloco | BAIXA|
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -235,6 +247,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| Conhecimento sobre linguagens de programação limitado |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
