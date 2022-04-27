@@ -1,8 +1,11 @@
 # Informações do Projeto
 
-`Falta de conteúdo gratuito sobre programação`
+`TÍTULO DO PROJETO`
+   
+   ...
 
-`Ciência da computação` 
+`CURSO` 
+   Ciência da Computação - disciplina trabalho interdisciplinar de aplicações web
 
 ## Participantes
 
@@ -129,19 +132,19 @@
 
  - Murilo
 
-![Murilo persona](imaages/../images/PMurilo.png)
+![Murilo persona]
 
-![Murilo mapa de empatia](imaages/../images/MEMurilo.png)
+<img src = "imaages/../images/MEMurilo.png" width = "800">
 
  - Vitória
   
-![Vitória persona](imaages/../images/PVitória.png)
+![Vitória persona]
 
 ![Vitória mapa de empatia](imaages/../images/MEVitória.png)
 
  - Kauã
 
-![Kauã persona](imaages/../images/PKauã.png)
+![Kauã persona]
 
 ![Kauã mapa de empatia](imaages/../images/MEKauã.png)
 
