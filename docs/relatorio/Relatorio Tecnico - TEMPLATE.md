@@ -5,6 +5,7 @@
    ...
 
 `CURSO` 
+
    Ciência da Computação - disciplina trabalho interdisciplinar de aplicações web
 
 ## Participantes
@@ -134,19 +135,19 @@
 
 ![Murilo persona]
 
-<img src = "imaages/../images/MEMurilo.png" width = "800">
+![Vitória mapa de empatia](imaages/../images/MEMurilo.jpg)
 
  - Vitória
   
 ![Vitória persona]
 
-![Vitória mapa de empatia](imaages/../images/MEVitória.png)
+![Vitória mapa de empatia](imaages/../images/MEVitória.jpg)
 
  - Kauã
 
 ![Kauã persona]
 
-![Kauã mapa de empatia](imaages/../images/MEKauã.png)
+![Kauã mapa de empatia](imaages/../images/MEKauã.jpg)
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
