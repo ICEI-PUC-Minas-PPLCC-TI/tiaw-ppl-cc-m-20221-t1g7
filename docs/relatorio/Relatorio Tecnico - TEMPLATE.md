@@ -173,6 +173,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Conteúdos de qualidade | ALTA | 
 |RF-002| Exemplos de programas   | ALTA |
+|RF-003| Criação de perfis para colaboradores   | MÉDIA |
+|RF-004| Indicações de materiais e sites | MÉDIA |
+|RF-005| Criação do site | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -181,9 +184,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Área destinada a perguntas e respostas| MÉDIA | 
 |RNF-002| Site possuir exercícios |  MÉDIA |
-|RNF-003| Indicações de materiais e sites | MÉDIA|
-|RNF-004| Responsividade | MÉDIA|
-|RNF-005| Tutorial estilo bloco | BAIXA|
+|RNF-003| Respostas a perguntas comuns | MÉDIA|
+|RNF-004| Responsividade | MÉDIA |
+|RNF-005| Tutorial estilo bloco | BAIXA |
+|RNF-006| Tabela de variáveis | BAIXA |
+|RNF-007| Modo escuro | BAIXA |
 
 ## Restrições
 
@@ -230,34 +235,33 @@ Páginas mais relevantes:
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o objetivo de entender o problema em tese e em como ele afeta a sociedade, 
+foi utilizado o processo de Design Thinking, que consiste em analisar o problema através dos pilares de 
+empatia, colaboração e experimentação. Para completar, foi utilizado o Scrum com o intuito de dividir as 
+tarefas e responsabilidades para agilizar o processo de realização dos afazeres.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A divisão de papéis ficou centrada em desenvolver os frameworks em equipe e depois separar a construção do site, 
+a documentação do projeto e a montagem da apresentação.
+
+As ferramentas utilizadas foram plataformas de softwares, como GitHub e Figma, e plataformas de criação de documentos, 
+como o PDF e PowerPoint.  
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
+|ID     | Descrição do Requisito  |Pessoa |
+|-------|-------------------------|-------|
+|RF-001 | Conteúdos de qualidade | Clara | 
+|RF-002 | Exemplos de programas   | André |
+|RF-003 | Criação de perfis para colaboradores   | Camila |
+|RF-004 | Indicações de materiais e sites | Camila|
+|RF-005 | Criação do site | Clara |
+|RNF-001| Área destinada a perguntas e respostas| Clara | 
+|RNF-002| Site possuir exercícios |  Camila |
+|RNF-003| Respostas a perguntas comuns | André|
+|RNF-004| Responsividade | Clara|
+|RNF-005| Tutorial estilo bloco | Camila|
+|RNF-006| Tabela de variáveis | André|
+|RNF-007| Modo escuro | André|
 
 ## Ferramentas
 
@@ -269,30 +273,8 @@ Páginas mais relevantes:
 |Wireframe | Figma | https://www.figma.com/file/Li6r3MoMW3qB5ZfKhj0gX2/TIAW?node-id=0%3A1 |
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g7 | 
 |User flow | Wireflow | https://wireflow.co/ |
+|Divisão de tarefas | Trello | https://trello.com/b/fExRjgSD/tiaw |
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
