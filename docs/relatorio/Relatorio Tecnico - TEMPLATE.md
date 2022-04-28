@@ -98,19 +98,19 @@ Para conseguir realizar as especificações com mais clareza, ulizou-se a plataf
 
 ## <a name = "personas-e-mapas-de-empatia"><a/> 👥 Personas e Mapas de Empatia
 
- - Murilo
+ - ### Murilo
 
 ![Murilo persona](imaages/../images/PMurilo.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEMurilo.jpg)
 
- - Vitória
+ - ### Vitória
   
 ![Vitória persona](imaages/../images/PVitória.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEVitória.jpg)
 
- - Kauã
+ - ### Kauã
 
 ![Kauã persona](imaages/../images/PKauã.png)
 
