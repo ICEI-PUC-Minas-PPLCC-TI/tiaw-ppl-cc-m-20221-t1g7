@@ -1,14 +1,14 @@
-# Informações do Projeto
+# <a name = "informações-do-projeto"><a/> 📝 Informações do Projeto
 
 `TÍTULO DO PROJETO`
    
-   ...
+   EasyCode
 
 `CURSO` 
 
    Ciência da Computação - disciplina trabalho interdisciplinar de aplicações web
 
-## Participantes
+##  <a name = "participantes"><a/> 👤 Participantes
 
    - André Menezes Resende
 
@@ -16,7 +16,7 @@
     
    - Clara Oliveira Mello Monteiro
 
-# Estrutura do Documento
+#  <a name = "estrutura-do-documento"><a/> 📃 Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
@@ -53,7 +53,7 @@
 
 # Introdução
 
-## Problema
+## <a name = "problema"><a/> ⚠️ Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -73,7 +73,7 @@
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+## <a name = "objetivos"><a/> 🚩 Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -86,7 +86,7 @@
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
-## Justificativa
+## <a name = "justificativa"><a/> 🔍 Justificativa
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -102,7 +102,7 @@
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
-## Público-Alvo
+## <a name = "público-alvo"><a/> 🎯 Público-Alvo
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -128,55 +128,32 @@ no desenvolvimento de pequenos objetivos que atendem cada demanda apresentada.
 
 Para conseguir realizar as especificações com mais clareza, ulizou-se a plataforma Miro (miro.com)
 
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
-## Personas e Mapas de Empatia
+## <a name = "personas-e-mapas-de-empatia"><a/> 👥 Personas e Mapas de Empatia
 
  - Murilo
 
-![Murilo persona]
+![Murilo persona](imaages/../images/PMurilo.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEMurilo.jpg)
 
  - Vitória
   
-![Vitória persona]
+![Vitória persona](imaages/../images/PVitória.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEVitória.jpg)
 
  - Kauã
 
-![Kauã persona]
+![Kauã persona](imaages/../images/PKauã.png)
 
 ![Kauã mapa de empatia](imaages/../images/MEKauã.jpg)
-
 
 
 Com as personas e os mapas 
 de empatia, foi possível compreender possíveis problemas de usuários e determinar quais funções do 
 programa são essenciais ou não (requisitos funcionais e não funcionais).
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-
-
-## Histórias de Usuários
+## <a name = "histórias-de-usuários"><a/> 📚 Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
@@ -186,18 +163,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Vitória      | Direcionamento na área de programação | Conseguir aprofundar seus conhecimentos por conta própria |
 |Kauã         | Conhecer mais sobre programação       | Descobrir se possui vocação/ interesse |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-## Requisitos
+## <a name = "requisitos"><a/> ✔️ Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -207,6 +173,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Conteúdos de qualidade | ALTA | 
 |RF-002| Exemplos de programas   | ALTA |
+|RF-003| Criação de perfis para colaboradores   | MÉDIA |
+|RF-004| Indicações de materiais e sites | MÉDIA |
+|RF-005| Criação do site | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -215,33 +184,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Área destinada a perguntas e respostas| MÉDIA | 
 |RNF-002| Site possuir exercícios |  MÉDIA |
-|RNF-003| Indicações de materiais e sites | MÉDIA|
-|RNF-004| Responsividade | MÉDIA|
-|RNF-005| Tutorial estilo bloco | BAIXA|
+|RNF-003| Respostas a perguntas comuns | MÉDIA|
+|RNF-004| Responsividade | MÉDIA |
+|RNF-005| Tutorial estilo bloco | BAIXA |
+|RNF-006| Tabela de variáveis | BAIXA |
+|RNF-007| Modo escuro | BAIXA |
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
-## Restrições
+## <a name = "restrições"><a/> ⛔ Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
@@ -251,97 +200,71 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| Conhecimento sobre linguagens de programação limitado |
 
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Primeiramente, foi criado o userflow visando atender os requisitos/ demandas descritas
+anteriormente. Dessa forma, foram criadas áreas para conteúdo, exercício e exemplos. Além da possibilidade
+de haver contribuidores que poderão alimentar a plataforma.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+A partir do userflow, foi possível produzir os wireframes, que possuem a base do layout de todas as páginas do site.
 
-## User Flow
+## <a name = "user-flow"><a/> 🌐 User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+![User flow](imaages/../images/wireflow.jpg)
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+## <a name = "wireframes"><a/> 🖥️ Wireframes
 
+ - Wireframe completo
 
-## Wireframes
+![Wireframe](imaages/../images/WireframeComp.jpg)
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Páginas mais relevantes: 
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+ - Página inicial
+
+![Wireframe home](imaages/../images/Home.jpg)
+
+ - Página que corresponde à biblioteca de linguagens disponíveis
+
+![Wireframe linguagens](imaages/../images/Linguagens.jpg)
+
+ - Modelo da página com conteúdo sobre determinada linguagem
+
+![Wireframe ex de ling](imaages/../images/ExdeLing.jpg)
 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Com o objetivo de entender o problema em tese e em como ele afeta a sociedade, 
+foi utilizado o processo de Design Thinking, que consiste em analisar o problema através dos pilares de 
+empatia, colaboração e experimentação. Para completar, foi utilizado o Scrum com o intuito de dividir as 
+tarefas e responsabilidades para agilizar o processo de realização dos afazeres.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A divisão de papéis ficou centrada em desenvolver os frameworks em equipe e depois separar a construção do site, 
+a documentação do projeto e a montagem da apresentação.
 
-## Divisão de Papéis
+As ferramentas utilizadas foram plataformas de softwares, como GitHub e Figma, e plataformas de criação de documentos, 
+como o PDF e PowerPoint.  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+## <a name = "divisão-de-papéis"><a/> 🗂️ Divisão de Papéis
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+|ID     | Descrição do Requisito  |Pessoa |
+|-------|-------------------------|-------|
+|RF-001 | Conteúdos de qualidade | Clara | 
+|RF-002 | Exemplos de programas   | André |
+|RF-003 | Criação de perfis para colaboradores   | Camila |
+|RF-004 | Indicações de materiais e sites | Camila|
+|RF-005 | Criação do site | Clara |
+|RNF-001| Área destinada a perguntas e respostas| Clara | 
+|RNF-002| Site possuir exercícios |  Camila |
+|RNF-003| Respostas a perguntas comuns | André|
+|RNF-004| Responsividade | Clara|
+|RNF-005| Tutorial estilo bloco | Camila|
+|RNF-006| Tabela de variáveis | André|
+|RNF-007| Modo escuro | André|
 
+## <a name = "ferramentas"><a/> 🔧 Ferramentas
 
-## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -349,32 +272,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Protótipo Interativo | Figma | https://www.figma.com/proto/Li6r3MoMW3qB5ZfKhj0gX2/TIAW?node-id=2%3A31&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A31 | 
 |Wireframe | Figma | https://www.figma.com/file/Li6r3MoMW3qB5ZfKhj0gX2/TIAW?node-id=0%3A1 |
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g7 | 
+|User flow | Wireflow | https://wireflow.co/ |
+|Divisão de tarefas | Trello | https://trello.com/b/fExRjgSD/tiaw |
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
-## Controle de Versão
+## <a name = "controle-de-versão"><a/> 🗃️ Controle de Versão
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
