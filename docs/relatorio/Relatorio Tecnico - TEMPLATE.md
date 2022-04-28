@@ -278,7 +278,12 @@ como o PDF e PowerPoint.
 
 ## <a name = "controle-de-versão"><a/> 🗃️ Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Até o momento, não foi utilizado nenhuma ferramenta de versionamento. Está sendo utiliazado
+o Github para a hospedagem do repositório e nele são feitas as mudanças da documentação.
+   
+Com o objetivo de garantir que todos os membros estão de acordo com as mudanças a serem
+realizadas, é criado um branch (ou mais, dependendo da necessidade) que é implementado
+somente após a aprovação do grupo.
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
