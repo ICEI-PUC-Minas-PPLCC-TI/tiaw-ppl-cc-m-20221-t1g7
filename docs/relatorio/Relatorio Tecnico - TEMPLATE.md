@@ -52,83 +52,42 @@
 
 
 # Introdução
+   
+   A programação é o processo de escrita, teste e manutenção de um programa de computador. Desenvolvida primeiramente na década de 30, atualmente é composta por diversas linguagens que são constituídas de comandos, que quando utilizados corretamente, executam uma ação.
+   
+  Tendo em vista a complexidade da linguagem de programação, foi pensado um programa/ website que ameniza as dificuldades iniciais de alguém que busca aprender a programar. Nesse documento é registrado os passos principais para a realização desse projeto.
 
 ## Problema
 
 Para estudantes de programação, um dos principais recursos utilizados para realizar seus estudos são locais de pesquisa e aprendizado sobre as diversas linguagens utilizadas na área.
+   
 Entretanto, ao pesquisar na internet por tais locais, dificilmente serão encontrados conteúdos que além de gratuitos, também sejam de qualidade.
+   
 Além do mais, um programador iniciante usualmente possui dificuldade em entender certos termos técnicos utilizados por programadores mais experientes, o que dificulta na procura de soluções para algum erro de código, ou no entendimento da solução em sí.
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 Nesse projeto, o principal objetivo será suprir parte da falta de conteúdo gratuito sobre programação, além de descomplicar o entendimento de programadores iniciantes sobre a área.
+   
 Para isso, um site será construído que objetiva auxiliar o estudante em sua pesquisa e lhe ajudar caso ocorrer dúvidas.
+   
 Uma área do site dedicada a responder perguntas básicas e pré-selecionadas será criada para auxiliar o estudante que ainda está iniciando na área e não possui conhecimento prévio algum.
+   
 Ademais, além de seu próprio conteúdo, o site também irá guiar e indicar o estudante a fontes confiáveis e de qualidade, para que possa expandir suas pesquisas além do escopo determinado do site.
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
->
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
 Como programadores iniciantes, nossa entrada na área da programação iniciou-se com um grande bloqueio, sendo essa não só a falta de conteúdo gratuito de qualidade, mas também a dificuldade de entender textos sobre linguagens e soluções para eventuais erros.
+   
 Ademais, durante a realização de uma pesquisa de campo, foi se percebido que esse problema não atingia apenas a nós, mas também a diversas outras pessoas que entrevistamos.
+   
 E por fim, vimos que diversos estudantes até sabiam onde procurar por soluções para seus erros ou conteúdos didáticos da área, mas que frequentemente eram feitos com linguagem rebuscada e confusa para iniciantes.
+   
 Portanto, o tema foi escolhido de forma a tentar solucionar essa situação, que assola não só os próprios membros do grupo, mas também diversos outros estudantes.
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
->
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
 O público-alvo escolhido serão pessoas de qualquer gênero, entre 16 e 26 anos, que já são familiarizados com tecnologia, e possuem interesse, mas não possuem experiência ou conhecimento algum na área da programação.
-
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
->
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
