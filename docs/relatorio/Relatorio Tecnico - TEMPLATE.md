@@ -1,4 +1,4 @@
-# Informações do Projeto
+# <a name = "informações-do-projeto"><a/> 📝 Informações do Projeto
 
 `TÍTULO DO PROJETO`
    
@@ -8,7 +8,7 @@
 
    Ciência da Computação - disciplina trabalho interdisciplinar de aplicações web
 
-## Participantes
+##  <a name = "participantes"><a/> 👤 Participantes
 
    - André Menezes Resende
 
@@ -16,7 +16,7 @@
     
    - Clara Oliveira Mello Monteiro
 
-# Estrutura do Documento
+#  <a name = "estrutura-do-documento"><a/> 📃 Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
@@ -53,7 +53,7 @@
 
 # Introdução
 
-## Problema
+## <a name = "problema"><a/> ⚠️ Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -73,7 +73,7 @@
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+## <a name = "objetivos"><a/> 🚩 Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -86,7 +86,7 @@
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
-## Justificativa
+## <a name = "justificativa"><a/> 🔍 Justificativa
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -102,7 +102,7 @@
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
-## Público-Alvo
+## <a name = "público-alvo"><a/> 🎯 Público-Alvo
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -128,23 +128,23 @@ no desenvolvimento de pequenos objetivos que atendem cada demanda apresentada.
 
 Para conseguir realizar as especificações com mais clareza, ulizou-se a plataforma Miro (miro.com)
 
-## Personas e Mapas de Empatia
+## <a name = "personas-e-mapas-de-empatia"><a/> 👥 Personas e Mapas de Empatia
 
  - Murilo
 
-![Murilo persona]
+![Murilo persona](imaages/../images/PMurilo.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEMurilo.jpg)
 
  - Vitória
   
-![Vitória persona]
+![Vitória persona](imaages/../images/PVitória.png)
 
 ![Vitória mapa de empatia](imaages/../images/MEVitória.jpg)
 
  - Kauã
 
-![Kauã persona]
+![Kauã persona](imaages/../images/PKauã.png)
 
 ![Kauã mapa de empatia](imaages/../images/MEKauã.jpg)
 
@@ -153,7 +153,7 @@ Com as personas e os mapas
 de empatia, foi possível compreender possíveis problemas de usuários e determinar quais funções do 
 programa são essenciais ou não (requisitos funcionais e não funcionais).
 
-## Histórias de Usuários
+## <a name = "histórias-de-usuários"><a/> 📚 Histórias de Usuários
 
 Com base na análise das personas foram identificadas as seguintes histórias de usuários:
 
@@ -163,7 +163,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Vitória      | Direcionamento na área de programação | Conseguir aprofundar seus conhecimentos por conta própria |
 |Kauã         | Conhecer mais sobre programação       | Descobrir se possui vocação/ interesse |
 
-## Requisitos
+## <a name = "requisitos"><a/> ✔️ Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
@@ -190,7 +190,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| Tabela de variáveis | BAIXA |
 |RNF-007| Modo escuro | BAIXA |
 
-## Restrições
+## <a name = "restrições"><a/> ⛔ Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
@@ -208,11 +208,11 @@ de haver contribuidores que poderão alimentar a plataforma.
 
 A partir do userflow, foi possível produzir os wireframes, que possuem a base do layout de todas as páginas do site.
 
-## User Flow
+## <a name = "user-flow"><a/> 🌐 User Flow
 
 ![User flow](imaages/../images/wireflow.jpg)
 
-## Wireframes
+## <a name = "wireframes"><a/> 🖥️ Wireframes
 
  - Wireframe completo
 
@@ -246,7 +246,7 @@ a documentação do projeto e a montagem da apresentação.
 As ferramentas utilizadas foram plataformas de softwares, como GitHub e Figma, e plataformas de criação de documentos, 
 como o PDF e PowerPoint.  
 
-## Divisão de Papéis
+## <a name = "divisão-de-papéis"><a/> 🗂️ Divisão de Papéis
 
 |ID     | Descrição do Requisito  |Pessoa |
 |-------|-------------------------|-------|
@@ -263,7 +263,7 @@ como o PDF e PowerPoint.
 |RNF-006| Tabela de variáveis | André|
 |RNF-007| Modo escuro | André|
 
-## Ferramentas
+## <a name = "ferramentas"><a/> 🔧 Ferramentas
 
 
 | Ambiente  | Plataforma              |Link de Acesso |
@@ -276,7 +276,7 @@ como o PDF e PowerPoint.
 |Divisão de tarefas | Trello | https://trello.com/b/fExRjgSD/tiaw |
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 
-## Controle de Versão
+## <a name = "controle-de-versão"><a/> 🗃️ Controle de Versão
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
