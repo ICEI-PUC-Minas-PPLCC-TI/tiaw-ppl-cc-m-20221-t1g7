@@ -319,7 +319,7 @@ Linguagens utilizadas:
 
 ![Modelo da solução](imaages/../images/ArquiteturaSolucao.png)
    
-   O computador à direita representa o meio pelo qual o usuário conseguirá acessar o site criado, no caso, foi utilizado o Netlify para a hospedagem. Primeiramente, o cliente, através da internet, realiza uma requisição ao servidor. O servidor acessará o conteúdo da página web (arquivos HTML, CSS e JavaScript) além do LocalStorage - nesse projeto foi utilizado dois conjuntos de armazenamento de dados: um para cadastro de usuários e outro para cadastro de conteúdos. Após concluir a captura dos dados, o servidor gerará uma resposta que será enviada ao browser do cliente. Assim, o site é carregado no navegador.
+   O computador à direita representa o meio pelo qual o usuário conseguirá acessar o site criado, no caso, foi utilizado o Netlify para a hospedagem. Primeiramente, o cliente, através da internet, realiza uma requisição ao servidor. O servidor acessará o conteúdo da página web (arquivos HTML, CSS e JavaScript) além do LocalStorage - nesse projeto foi utilizado dois conjuntos de armazenamento de dados: um para cadastro de usuários e outro para cadastro de conteúdo. Após concluir a captura dos dados, o servidor gerará uma resposta que será enviada ao browser do cliente. Assim, o site é carregado no navegador.
 
 
 # Avaliação da Aplicação
@@ -366,11 +366,18 @@ Linguagens utilizadas:
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+FLAMMO, Equipe. Persona e público-alvo: qual a diferença no marketing? Flammo, 2016. Disponível em: https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/. Acesso em: Abril/2022
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+REHKOPF, Max. Histórias de usuários com exemplos e um template. Atlassian. Disponível em: https://www.atlassian.com/br/agile/project-management/user-stories. Acesso em: Abril/2022
+
+SANTOS, Larissa dos. Como escrever boas histórias de usuário (User Stories). Medium, 2017. Disponível em: https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac Acesso em: Abril/2022
+
+CANGUÇU, Rafael. O que são Requisitos Funcionais e Requisitos Não Funcionais? Codificar, 2021. Disponível em: https://codificar.com.br/requisitos-funcionais-nao-funcionais/. Acesso em: Abril/2022
+
+ALFF, Chico. O que são Requisitos Funcionais e Não Funcionais? Análise de requisitos, 2022. Disponível em: https://analisederequisitos.com.br/requisitos-funcionais-e-nao-funcionais/. Acesso: Abril/2022
+
+FARIAS. Gabriel Sa. Fluxo de usuário (User Flow): O que é? Como fazer?. Medium, 2018. Disponível em: https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534. Acesso em: Abril/2022
+
+Mockplus. Top 25 User Flow Tools & Templates for Smooth UX. Mockplus, 2019. Disponível em: https://www.mockplus.com/blog/post/user-flow-tools. Acesso em: Abril/ 2022
+
+PACIEVITCH, Yuri. História da Programação. Infoescola. Disponível em: https://www.infoescola.com/informatica/historia-da-programacao/. Acesso em: Abril/2022
