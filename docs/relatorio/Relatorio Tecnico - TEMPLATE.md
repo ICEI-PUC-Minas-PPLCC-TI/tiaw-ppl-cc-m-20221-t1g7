@@ -242,7 +242,7 @@ como o PDF e PowerPoint.
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20221-t1g7 | 
 |User flow | Wireflow | https://wireflow.co/ |
 |Divisão de tarefas | Trello | https://trello.com/b/fExRjgSD/tiaw |
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
+|Hospedagem do site | Netllify |  https://easycode-tiaw2022.netlify.app/ | 
 
 ## <a name = "controle-de-versão"><a/> 🗃️ Controle de Versão
 
@@ -293,7 +293,22 @@ somente após a aprovação do grupo.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para a organização do projeto como um todo foi utilizado ferramentas como:
+   - Miro: facilitador para organização de ideias e para definições de público alvo e de objetivo principal
+   - Figma: utilizado para definir a ideia base de como o site seria apresentado ao usuário
+   - WireFlow: organização do fluxo do usuário pelo site
+   - Trello: organização das tarefas a serem realizadas
+   - Netlify: meio pelo qual o site consegue ser disponibilizado ao público
+   - VSCode Studio: auxiliador no desenvolvimento do código
+
+Linguagens utilizadas:
+   - HTML
+   - CSS
+   - JavaScript
+   
+ ![Modelo de servidor](imaages/../images/Servidor.png)
+   
+   Legenda: as três principais partes que compõem a página web (HTML, CSS e JavaScript)
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -310,7 +325,9 @@ somente após a aprovação do grupo.
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+![Modelo da solução](imaages/../images/ArquiteturaSolucao.png)
+   
+   O computador à direita representa o meio pelo qual o usuário conseguirá acessar o site criado, no caso, foi utilizado o Netlify para a hospedagem. Primeiramente, o cliente, através da internet, realiza uma requisição ao servidor. O servidor acessará o conteúdo da página web (arquivos HTML, CSS e JavaScript) além do LocalStorage - nesse projeto foi utilizado dois conjuntos de armazenamento de dados: um para cadastro de usuários e outro para cadastro de conteúdos. Após concluir a captura dos dados, o servidor gerará uma resposta que será enviada ao browser do cliente. Assim, o site é carregado no navegador.
 
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
