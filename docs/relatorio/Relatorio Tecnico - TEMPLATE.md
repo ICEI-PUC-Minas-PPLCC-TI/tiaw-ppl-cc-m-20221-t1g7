@@ -302,19 +302,6 @@ Linguagens utilizadas:
    
    Legenda: as três principais partes que compõem a página web (HTML, CSS e JavaScript)
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
 ## Arquitetura da solução
 
 ![Modelo da solução](imaages/../images/ArquiteturaSolucao.png)
@@ -326,58 +313,30 @@ Linguagens utilizadas:
 
 Os cenários que serão testados são o de cadastro de perfil, login de perfil, que se espera resultar na página de perfil do usuário e poder modificar o conteúdo, e o quiz, que se espera apresentar perguntas para o usuário e responder uma linguagem baseado nas respostas escolhidas.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
 ## Plano de Testes
 
 Teste 1: Cadastrar
-•	Entrar na parte Contribua no site
-•	Clicar em criar conta
-•	Preencher os campos
-•	Clicar em continuar
-•	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+-	Entrar na parte Contribua no site
+-	Clicar em criar conta
+-	Preencher os campos
+-	Clicar em continuar
+-	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens <br />
 Teste 2: Login
-•	Entrar na parte Contribua no site
-•	Preencher os campos
-•	Clicar em continuar
-•	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+-	Entrar na parte Contribua no site
+-	Preencher os campos
+-	Clicar em continuar
+-	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens <br />
 Teste 3: Quiz
-•	Clicar no banner do quiz
-•	Responder as perguntas
-•	Irá aparecer uma linguagem como resultado
-
-
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+-	Clicar no banner do quiz
+-	Responder as perguntas
+-	Irá aparecer uma linguagem como resultado
 
 ## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
-
+ Não foram utilizadas ferramentas de testes além do próprio site.
+   
 ## Registros de Testes
 
 Todos os testes obtiveram os resultados esperados e sem falhas. O site apresenta estar todo funcional e pronto para ser divulgado para o público. Mas para versões futuras, um tópico que é desejado para adicionar é exercícios de cada linguagem e a possibilidade de correção.
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
 
 # Referências
 
