@@ -281,7 +281,7 @@ somente após a aprovação do grupo.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto da solução começou com a divisão de tarefas entre a equipe.  Como o projeto é criar um site, cada integrante ficou encarregado de desenvolver uma parte: a página inicial, o conteúdo e o login. A funcionalidade do site se baseia em ter um pequeno resumo sobre cada linguagem de programação e quem tem o perfil acessível por login, é capaz de modificar o texto e criar novos tópicos.
 
 ## Tecnologias Utilizadas
 
@@ -324,7 +324,7 @@ Linguagens utilizadas:
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os cenários que serão testados são o de cadastro de perfil, login de perfil, que se espera resultar na página de perfil do usuário e poder modificar o conteúdo, e o quiz, que se espera apresentar perguntas para o usuário e responder uma linguagem baseado nas respostas escolhidas.
 
 > Apresente os cenários de testes utilizados na realização dos testes da
 > sua aplicação. Escolha cenários de testes que demonstrem os requisitos
@@ -332,7 +332,22 @@ Linguagens utilizadas:
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Teste 1: Cadastrar
+•	Entrar na parte Contribua no site
+•	Clicar em criar conta
+•	Preencher os campos
+•	Clicar em continuar
+•	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+Teste 2: Login
+•	Entrar na parte Contribua no site
+•	Preencher os campos
+•	Clicar em continuar
+•	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+Teste 3: Quiz
+•	Clicar no banner do quiz
+•	Responder as perguntas
+•	Irá aparecer uma linguagem como resultado
+
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -356,7 +371,7 @@ Linguagens utilizadas:
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Todos os testes obtiveram os resultados esperados e sem falhas. O site apresenta estar todo funcional e pronto para ser divulgado para o público. Mas para versões futuras, um tópico que é desejado para adicionar é exercícios de cada linguagem e a possibilidade de correção.
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
