@@ -140,23 +140,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Conteúdos de qualidade | ALTA | 
-|RF-002| Exemplos de programas   | ALTA |
-|RF-003| Criação de perfis para colaboradores   | MÉDIA |
-|RF-004| Indicações de materiais e sites | MÉDIA |
-|RF-005| Criação do site | ALTA |
+|RF-002| Criação de perfis para colaboradores   | MÉDIA |
+|RF-003| Indicações de materiais e sites | MÉDIA |
+|RF-004| Criação do layout padrão | ALTA |
+|RF-005| Login e cadastro de usuários | MÉDIA |
+|RF-006| Página de edição para colaboradores | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Área destinada a perguntas e respostas| MÉDIA | 
-|RNF-002| Site possuir exercícios |  MÉDIA |
-|RNF-003| Respostas a perguntas comuns | MÉDIA|
-|RNF-004| Responsividade | MÉDIA |
-|RNF-005| Tutorial estilo bloco | BAIXA |
-|RNF-006| Tabela de variáveis | BAIXA |
-|RNF-007| Modo escuro | BAIXA |
+|RNF-001| Responsividade | MÉDIA |
+|RNF-002| Produção de um QUIZ | BAIXA |
 
 ## <a name = "restrições"><a/> ⛔ Restrições
 
@@ -218,18 +214,14 @@ como o PDF e PowerPoint.
 
 |ID     | Descrição do Requisito  |Pessoa |
 |-------|-------------------------|-------|
-|RF-001 | Conteúdos de qualidade | Clara | 
-|RF-002 | Exemplos de programas   | André |
-|RF-003 | Criação de perfis para colaboradores   | Camila |
-|RF-004 | Indicações de materiais e sites | Camila|
-|RF-005 | Criação do site | Clara |
-|RNF-001| Área destinada a perguntas e respostas| Clara | 
-|RNF-002| Site possuir exercícios |  Camila |
-|RNF-003| Respostas a perguntas comuns | André|
-|RNF-004| Responsividade | Clara|
-|RNF-005| Tutorial estilo bloco | Camila|
-|RNF-006| Tabela de variáveis | André|
-|RNF-007| Modo escuro | André|
+|RF-001| Conteúdos de qualidade | Camila/ Clara | 
+|RF-002| Criação de perfis para colaboradores   | André/ Camila |
+|RF-003| Indicações de materiais e sites | Camila/ Clara |
+|RF-004| Criação do layout padrão | Clara |
+|RF-005| Login e cadastro de usuários | André/ Camila |
+|RF-006| Página de edição para colaboradores | André |
+|RNF-001| Responsividade | Clara |
+|RNF-002| Produção de um QUIZ | André |
 
 ## <a name = "ferramentas"><a/> 🔧 Ferramentas
 
@@ -328,13 +320,6 @@ Linguagens utilizadas:
 ![Modelo da solução](imaages/../images/ArquiteturaSolucao.png)
    
    O computador à direita representa o meio pelo qual o usuário conseguirá acessar o site criado, no caso, foi utilizado o Netlify para a hospedagem. Primeiramente, o cliente, através da internet, realiza uma requisição ao servidor. O servidor acessará o conteúdo da página web (arquivos HTML, CSS e JavaScript) além do LocalStorage - nesse projeto foi utilizado dois conjuntos de armazenamento de dados: um para cadastro de usuários e outro para cadastro de conteúdos. Após concluir a captura dos dados, o servidor gerará uma resposta que será enviada ao browser do cliente. Assim, o site é carregado no navegador.
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
