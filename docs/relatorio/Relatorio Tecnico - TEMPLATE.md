@@ -320,12 +320,14 @@ Teste 1: Cadastrar
 -	Clicar em criar conta
 -	Preencher os campos
 -	Clicar em continuar
--	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens <br />
+-	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+   
 Teste 2: Login
 -	Entrar na parte Contribua no site
 -	Preencher os campos
 -	Clicar em continuar
--	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens <br />
+-	Após logado no perfil, a pessoa tem permissão de modificar os tópicos das linguagens
+   
 Teste 3: Quiz
 -	Clicar no banner do quiz
 -	Responder as perguntas
