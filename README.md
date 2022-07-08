@@ -2,6 +2,8 @@
 # EasyCode
 
    A programação é o processo de escrita, teste e manutenção de um programa de computador. Desenvolvida primeiramente na década de 30, atualmente é composta por diversas linguagens que são constituídas de comandos, que quando utilizados corretamente, executam uma ação. Tendo em vista a complexidade da linguagem de programação, foi pensado um programa/ website que ameniza as dificuldades iniciais de alguém que busca aprender a programar.
+   
+   🔗 https://easycode-tiaw2022.netlify.app/
 
 ## Alunos integrantes da equipe
 
